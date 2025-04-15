@@ -37,7 +37,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/chloex2024/network-tool-master.git
+git clone https://github.com/chloex2024/network-tool.git
 cd network-tool-master
 ```
 
