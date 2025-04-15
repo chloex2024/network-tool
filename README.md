@@ -37,7 +37,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/username/network-tool-master.git
+git clone https://github.com/chloex2024/network-tool-master.git
 cd network-tool-master
 ```
 
@@ -102,8 +102,8 @@ python run.py
 
 ## 👥 联系方式
 
-- 项目主页：https://github.com/username/network-tool-master
-- 问题反馈：https://github.com/username/network-tool-master/issues
+- 项目主页：https://github.com/chloex2024/network-tool
+- 问题反馈：https://github.com/chloex2024/network-tool/issues
 - 邮件联系：support@networkmaster.com
 
 ## 🙏 致谢
@@ -112,9 +112,9 @@ python run.py
 
 ## 📊 项目状态
 
-![Stars](https://img.shields.io/github/stars/username/network-tool-master.svg)
-![Forks](https://img.shields.io/github/forks/username/network-tool-master.svg)
-![Issues](https://img.shields.io/github/issues/username/network-tool-master.svg)
+![Stars](https://img.shields.io/github/stars/chloex2024/network-tool-master.svg)
+![Forks](https://img.shields.io/github/forks/chloex2024/network-tool-master.svg)
+![Issues](https://img.shields.io/github/issues/chloex2024/network-tool-master.svg)
 
 ---
 
@@ -122,7 +122,7 @@ python run.py
 
 ```bash
 # 快速体验
-git clone https://github.com/username/network-tool-master.git
+git clone https://github.com/username/network-tool.git
 cd network-tool-master
 pip install -r requirements.txt
 python run.py
