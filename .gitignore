@@ -1,1 +1,4 @@
 *.pyc
+/dist
+/logs
+src/core/directory_size_cache.json
